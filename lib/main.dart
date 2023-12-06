@@ -15,5 +15,6 @@ class MyApp extends StatelessWidget {
       ),
       home: MyHomePage(),
     );
+    //note app for the local add inf purpose
   }
 }
